@@ -19,7 +19,20 @@ public class Shuffler {
    * @return the shuffled array
 	 */
 	public static int[] perfectShuffle(int[] values) {
-		/* *** TO BE IMPLEMENTED IN ACTIVITY 3 *** */
+		int n = values.length;
+		int[] shuffled = new int[n];
+		int k = 0;
+		int m = n - (n/2) - 1; //this is dum but also cool
+		for(int j = 0; j <= m; j++) {
+			shuffled[k] = values[j];
+			k+=2;
+		}
+		k = 1;
+		for(int j = m+1; j < n; j++) {
+			shuffled[k] = values[j];
+			k+=2;
+		}
+		return shuffled;
 	}
 
 	/**
@@ -35,6 +48,15 @@ public class Shuffler {
    * @return the shuffled array
 	 */
 	public static int[] selectionShuffle(int[] values) {
-		/* *** TO BE IMPLEMENTED IN ACTIVITY 3 *** */
+		int n = values.length;
+		int j;
+		for(int k = n-1; k > 0; k--) {
+			j = (int)(Math.random() * (k+1));
+			int temp = values[k];
+			values[k] = values[j];
+			values[j] = temp;
+		}
+		
+		return values;
 	}
 }

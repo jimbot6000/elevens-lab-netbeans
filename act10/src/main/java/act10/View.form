@@ -147,9 +147,6 @@
         <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
           <Dimension value="[73, 97]"/>
         </Property>
-        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[73, 97]"/>
-        </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="card2">
@@ -163,9 +160,6 @@
         </Property>
         <Property name="name" type="java.lang.String" value="1" noResource="true"/>
         <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[77, 101]"/>
-        </Property>
-        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
           <Dimension value="[77, 101]"/>
         </Property>
       </Properties>
@@ -183,9 +177,6 @@
         <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
           <Dimension value="[77, 101]"/>
         </Property>
-        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[77, 101]"/>
-        </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="card4">
@@ -199,9 +190,6 @@
         </Property>
         <Property name="name" type="java.lang.String" value="3" noResource="true"/>
         <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[77, 101]"/>
-        </Property>
-        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
           <Dimension value="[77, 101]"/>
         </Property>
       </Properties>
@@ -219,9 +207,6 @@
         <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
           <Dimension value="[77, 101]"/>
         </Property>
-        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[77, 101]"/>
-        </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="card9">
@@ -235,9 +220,6 @@
         </Property>
         <Property name="name" type="java.lang.String" value="8" noResource="true"/>
         <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[77, 101]"/>
-        </Property>
-        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
           <Dimension value="[77, 101]"/>
         </Property>
       </Properties>
@@ -255,9 +237,6 @@
         <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
           <Dimension value="[77, 101]"/>
         </Property>
-        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[77, 101]"/>
-        </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="card7">
@@ -273,9 +252,6 @@
         <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
           <Dimension value="[77, 101]"/>
         </Property>
-        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[77, 101]"/>
-        </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="card8">
@@ -289,9 +265,6 @@
         </Property>
         <Property name="name" type="java.lang.String" value="7" noResource="true"/>
         <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[77, 101]"/>
-        </Property>
-        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
           <Dimension value="[77, 101]"/>
         </Property>
       </Properties>
@@ -312,9 +285,6 @@
         <Property name="horizontalAlignment" type="int" value="0"/>
         <Property name="text" type="java.lang.String" value="Click to select a card; click again to de-select"/>
         <Property name="horizontalTextPosition" type="int" value="0"/>
-        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[368, 20]"/>
-        </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="numberOfCardsLabel">
